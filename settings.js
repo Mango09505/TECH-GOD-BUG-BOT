@@ -1,4 +1,4 @@
-//base by Tech-God
+//base by MR-Fantastic
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @techgod143
 //Instagram: techgod143
@@ -39,7 +39,7 @@ global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = true //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
