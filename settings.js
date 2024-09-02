@@ -21,7 +21,7 @@ global.ownername = '🐛MR-Fantastic' //owner name
 global.botname = 'MR Fantastic' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By' MR Fantastic 
+global.packname = 'Sticker By'
 global.author = 'MR-Fantastic\n\nContact: +923272609505'
 
 //console view/theme
