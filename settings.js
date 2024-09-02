@@ -10,7 +10,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923272609505"
+global.ownernomer = "923272609505"+92 330 2370928
 global.ownername = "🐛MR-Fantastic"
 global.ytname = "YT: MR-Fantastic"
 global.socialm = "GitHub: Mango09505"
@@ -18,15 +18,15 @@ global.location = "Pakistan, Up, Kadhan"
 
 global.ownernumber = '923272609505'  //creator number
 global.ownername = '🐛MR-Fantastic' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'MR Fantastic' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'Sticker By' MR Fantastic 
 global.author = 'MR-Fantastic\n\nContact: +923272609505'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Youtube Tech God."
+global.wm = "Youtube MR Fantastic."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
